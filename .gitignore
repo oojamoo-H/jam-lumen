@@ -1,0 +1,6 @@
+.idea
+.env
+.env_debug
+/vendor
+.DS_Store
+_ide_helper.php
